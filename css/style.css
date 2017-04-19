@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor1{
+	background-color: #47624F;
+	height: 350px;
+	width: 350px;
+	position: relative;		
+	left: 500px;
+}
+
+.aqua{
+	background-color: #9FFCDF;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 70px;
+	top:70px;
+
+}
+
+.azul{
+	background-color: #52AD9C;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 70px;
+	top:70px;
+}
+
+.contenedor2{
+	background-color: #8789C0;
+	height: 350px;
+	width: 350px;
+	position: relative;
+	left: 450px;
+	margin: 50px;
+}
+
+.morado{
+	background-color: #45F0DF;
+	height: 80px;
+	width: 80px;
+	position: absolute;
+}
+
+.lila{
+	background-color: #C2CAE8;
+	height: 200px;
+	width: 200px;
+	position: absolute;
+	left:80px;
+	top: 80px;
+}
+
